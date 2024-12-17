@@ -1,0 +1,27 @@
+{
+  "name": "vitrioleuse",
+  "displayName": "vitrioleuse",
+  "description": "High-contrast Monokai Charcoal inspired theme",
+  "version": "1.0.0",
+  "author": "Jørgen Tau",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lichrot/vitrioleuse.git"
+  },
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "vitrioleuse",
+        "uiTheme": "hc-black",
+        "path": "./themes/vitrioleuse-color-theme.json"
+      }
+    ]
+  }
+}
