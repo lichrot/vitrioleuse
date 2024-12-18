@@ -5,6 +5,7 @@
   "version": "1.0.0",
   "author": "Jørgen Tau",
   "license": "MIT",
+  "publisher": "vitrioleuse",
   "repository": {
     "type": "git",
     "url": "git@github.com:lichrot/vitrioleuse.git"
